@@ -1,0 +1,25 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	background-image: url('images/background.jpg');
+}
+h1 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	background-image: url('images/CenLogo.jpg');
+	padding-left: 250px;
+	height: 59px;
+	color: #454547;
+	background-repeat: no-repeat;
+	background-color: #D4E038;
+}
+#allPage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border: medium solid #5B620F;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #999999;
+	padding: 10px;
+}
